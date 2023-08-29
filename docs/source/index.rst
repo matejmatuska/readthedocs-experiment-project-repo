@@ -1,4 +1,4 @@
-Welcome to main project documentation!
+Welcome to SUBproject documentation!
 ======================================
 
 Check out the :doc:`usage` section for further information, including
