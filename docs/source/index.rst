@@ -14,4 +14,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   best-practices-for-writing-actors
+   API <https://experiment-project.readthedocs.io/en/latest/api.html>
