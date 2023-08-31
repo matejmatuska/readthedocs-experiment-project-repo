@@ -15,5 +15,6 @@ Contents
 
    usage
    best-practices-for-writing-actors
+   workflow
    API <https://experiment-project.readthedocs.io/en/latest/api.html>
    FAQ <https://experiment-project.readthedocs.io/en/latest/faq.html>
