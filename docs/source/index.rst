@@ -13,7 +13,7 @@ Contents
 
 .. toctree::
 
-   Tutorials <https://experiment-project.readthedocs.io/en/latest/usage.html>
+   usage
    best-practices-for-writing-actors
    workflow
    API <https://experiment-project.readthedocs.io/en/latest/api.html>
